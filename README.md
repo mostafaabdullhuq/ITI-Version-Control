@@ -1,6 +1,6 @@
 # (ITPAlex 2022-2023Q2) Full Stack using PHP - Intake 2
 
-![Iti Full Stack Web Developer Using PHP](/imgs/iti.jpg)
+![Iti Full Stack Web Developer Using PHP](./imgs/iti.jpg)
 
 ## Version Control Systems Assignment
 
